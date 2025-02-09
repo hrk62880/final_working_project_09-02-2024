@@ -1,0 +1,60 @@
+-> stature of the all pages are save in the stature.html document
+-> check the responsive part of the login and forgot document and verify it from the mentor
+-> forgot email section is pending
+-> dashboard pages main body area is pending
+-> profile dropdown is set but MyProfile, ChangePassword, and LogOut part is incomplete
+-> upcoming steps are
+
+  1.user document
+  2.add new user section
+  3.snackbar related to the user modification
+  4. delete user confirmation
+  5. roles and permission document main body 
+  6. permission document main body
+  7. menu document main body
+  8. menu document model for modification
+  9. menu document new menu model
+  10. menu document update menu model
+  11. menu document delete confirmation
+  12. menu document modifier group model for add modifier group
+  13. menu document modifier group model for update modifier group
+  14. menu document modifier group model for delete modifier group confirmation
+  15. section and tables main body area 
+  16. section and tables add section model
+  17. section and tables edit section model
+  18. section and tables delete section model for confirmation
+  19. section and tables, table  delete confirmation model
+  20. section and table, table add /update model
+  21. tax and fees main body area
+  22. tax and fees add new tax model
+  23. tax and fees edit old tax model
+  24. tax and fees delete old tax model
+  25. orders main body area
+  26. downloadable invoice pdf
+  27. orders invoice view pages
+  28. customers main body area
+  30. customers select date and range model
+  31. customers details to the excel file
+  32. customer > customer history model
+  33. navigation bar mobile view button
+  34. order app > table view
+  35. order app > menu view
+  36. order app > KOT view
+  37. order app > KOT view > model  for waiting list token
+  38. order app > model view for the modifier adding
+  40. order app > table section view
+  41. order app > menu > QR code for the payment
+  42. order app > customer details payment model
+  43. order app > menu > main body area
+  44. order app > menu > special instruction model
+  45. order app > menu > complete confirmation model
+  46. order app > menu > review model
+  47. Generate invoice
+  48. order app > menu > cancel confirmation model
+  49. app > waiting list main body area
+  50. app > waiting list > waiting token model
+  51. app > waiting list > waiting token modification model
+  52. app > waiting list > assign table model
+  53. KOT > main body area
+  54. KOT > main body area > order it model
+  55. Final overview by mentor

@@ -1,0 +1,61 @@
+/* ============================================= General style ============================================= */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 1s;
+}
+
+.custom-body-bg-color {
+    background: #d8eff7;
+}
+
+.custom-body-page-color {
+    background-color: #f2f2f2;
+}
+
+.custom-active-page-not-found-bg-color {
+    background: #d8eff8;
+}
+
+.custom-body-text-color {
+    color: #0066a7;
+}
+
+.custom-active-ul-item-bg-color {
+    background: #e9eaeb;
+}
+
+.custom-active-ul-item-text-color {
+    color: #0e67a7 !important;
+}
+
+.custom-navbar-bg-color {
+    background-color: #0066a7 !important;
+}
+
+#custom-font-size {
+    font-size: 200px;
+}
+
+
+/* ============================================= General style ============================================= */
+
+
+/* ============================================= for the input icon ============================================= */
+
+#custom-login-input {
+    background-image: url(/images/icons/person.svg);
+    background-repeat: no-repeat;
+    background-position: 99% 50%;
+}
+
+#custom-password-input {
+    background-image: url(/images/icons/eye-slash-fill.svg);
+    background-repeat: no-repeat;
+    background-position: 99% 50%;
+}
+
+
+/* ============================================= for the input icon ============================================= */
